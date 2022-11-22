@@ -48,7 +48,7 @@ def buildSpreadsheet(table,list_req, list_art):
 #format:
 #Issue,Requirement
 def formatting(table,list_req, list_art):
-    f = open('output/correctFormat.csv', 'w')
+    f = open('../output/matchesList.csv', 'w')
 
     # create the csv writer
     writer = csv.writer(f)
