@@ -1,0 +1,101 @@
+Issue Number,Issue
+1,Web Store cannot operate with Microsoft Internet Explorer version 6 or 7
+2,Web Store cannot operate with Netscape Communicator version 4 or 5
+3,Web Store cannot operate with any internet browser
+4,Web Store cannot operate on an Intel based system
+5,The system cannot store inventory information
+6,The SQL based database does not store inventory information
+7,No USB interface is provided
+8,No divers are provided
+9,Does not use an SQL based database
+10,Mozilla and Firefox are 100% compatible
+11,Compatibility is not tested or verified for Microsoft Internet Explorer
+12,Compatibility is not tested or verified for Netscape Communicator
+13,Does not deliver Operations and Maintenance manual
+14,Does not deliver Users Guide Book
+15,Does not deliver Installation Instructions for the Administrator
+16,Samples of the USB system from Yoggie are not tested
+17,Samples of the USB system from Yoggie are not evaluated
+18,It is not assumed that Yoggie will freeze the baseline of the USB system after delivery
+19,The system takes longer than 1 minute to be deployed and operational after the USB is plugged in
+20,Upon the USB being plugged in the system is never deployed
+21,The system cannot handle 1000 users logged in concurrently at the same time
+22,The system can only handle 500 users logged in concurrently at the same time
+23,The system cannot retrieve 200 products per second
+24,The system can only retrieve 100 products per second
+25,The system takes 3ms to add product to shopping cart
+26,The system cannot add product to shopping cart in less than 2ms
+27,The system takes longer than 1 second to search for a specified product
+28,Products cannot be added to the shopping cart
+29,The system cannot search for a specified product
+30,The system cannot email customer
+31,The system cannot email vendor
+32,It takes the system longer than 1 second to email customer and vendor
+33,The system cannot validate credit cards against fraud
+34,The system takes longer than 2 seconds to validate credit card
+35,The system cannot acquire shipping charges
+36,The system takes longer than 2 seconds to acquire shipping charges
+37,The system is unable to restore records
+38,The system cannot restore 1000 records per second
+39,The system does not have a live internet connection
+40,The system does not do periodic backups 
+41,Sensitive information is not encrypted
+42,The system does not encrypt customer data
+43,Customer data in not encrypted in database
+44,The system does not auto detect IP DOS attacks
+45,The system does not block IP automatically
+46,The system cannot detect consecutive failed login attempts
+47,The system does not detect any login attempts
+48,The sytem is unprotected
+49,The system is not protected by Firestarter
+50,The system has an availablity of less than 99.99%
+51,The system cannot perform searches
+52,The system does not perform searches via Dijkstra's shortest path algorithm
+53,The system cannot validate 'existing' credit card in system after each log in
+54,The system cannot detect returning customers
+55,The system does not automatically compress image files that are too large in size
+56,The system cannot detect whether an image is too large in size or not
+57,The system does not employ on demand asynchronous loading for faster execution of pages
+58,Asynchronous loading does not speed up execution of pages
+59,The system does not validate email address existence
+60,The system is not easy to use
+61,The system is difficult to use
+62,The system is not easy to learn
+63,The system is difficult to learn
+64,The system does not utilize help bubbles
+65,Help bubbles do not assist managers
+66,Help bubbles do not assist customers
+67,Help bubbles do not assist administrators
+68,The system does not employ buttons
+69,Buttons are not easy to locate
+70,Error messages are not prompted to the customer
+71,Error messages are not easy to read
+72,The system utilizes inconsistent symbols and colors
+73,Notifications are not clear
+74,The system does not utilize interchangeable plugins
+75,Plugins are not utilized by the system
+76,The system is not easily updatable
+77,The system cannot be updated
+78,The system does not create logs of all changes to the site
+79,The system does not create logs of updates to the site
+80,The system does not create logs of fixes that are done to the site
+81,The system is not easy to upgrade
+82,The system is difficult to upgrade
+83,The system is not portable via the usb drive
+84,The system is not easy to migrate
+85,The system is difficult to migrate
+86,The system cannot be backed up via another usb drive
+87,The system is unable to run under debug mode
+88,The system is unable to run test credit card transactions
+89,The system is unable to run test shipping orders
+90,The system cannot create test environment of weborder system
+91,Test environment of weborder system is created but is not functioning
+92,The system hardware is not fixed via an internet connection
+93,The system hardware is not patched via an internet connection
+94,Yoggie is not coordinating on future enhancement and features
+95,The system does not have a 4GB Flash ram chip
+96,The system does not have 128MB SDRAM
+97,The system does not have Intel XScale PXA270 520-MHz chipset
+98,The system does not have Apache web server
+99,The system does not have MySQL database
+100,The system can only restore 500 records per second

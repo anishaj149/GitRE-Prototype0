@@ -1,0 +1,53 @@
+Issue Number,Issue
+1,Selected entry cannot be duplicated
+2,TAN does not expire automatically
+3,Command line allows more than one database file
+4,The database stays unlocked when master password is lost
+5,Username is able to be changed in a TAN entry
+6,Global hotkey can be changed
+7,TAN can be used multiple times
+8,The database can be recovered when key file is lost
+9,Spaces are not detected in the path
+10,There is a backdoor that unlocks all databases
+11,Entries are duplicated without being selected
+12,Sequences with more than 59 characters are accepted
+13,Entries can be created without belonging to a group
+14,Entries cannot be assigned to a group
+15,Database can be printed with no entries
+16,Entries cannot be selected
+17,Words cannot be found in a group even when placed in the find field
+18,Password field cannot be completed
+19,"Sequence is accepted without the prefix ""Auto-Type:"""
+20,Database cannot be unlocked with master password
+21,Composite key is not created
+22,Entries cannot be created even when added to a group
+23,An entry can be viewed without being selected
+24,An entry can be modified without being selected
+25,The database cannot detect the key file
+26,The database does not open even with the password entered
+27,The database can be opened with an incorrect password
+28,Password cannot be entered
+29,The URL can be changed in a TAN entry
+30,Only some data related to the word is shown
+31,No data related to the word is shown
+32,Entries are duplicated too many times
+33,Subgroup is able to be created without selecting a group first
+34,Runs without KeePass downloaded and installed
+35,Master password only accepts passwords of a certain length
+36,Only accepts a whole sentence with less than or equal to 100 characters
+37,Cannot select a folder
+38,"Accepts folders that are not named with the convention ""name"".kdb"
+39,Database does not print entries
+40,Subgroup cannot be created even when a group is selected
+41,Group/subgroup cannot be renamed
+42,Entries cannot be viewed even when selected
+43,Repeat password field is not identical to password field
+44,"When password is changed, repeat password does not change"
+45,Both auto-types are used when multiple are referred in one note field
+46,Only the second auto-type is used when two are referred in one note field
+47,Group can be renamed without a new name
+48,Subgroup can be renamed without a new name
+49,Spaces found in the path are not enclosed into quotes
+50,The database can be opened without a key file
+51,File formats do not specify the layout of stored data
+52,TAN cannot be used

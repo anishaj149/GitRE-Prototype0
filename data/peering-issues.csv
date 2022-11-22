@@ -1,0 +1,55 @@
+Issue Number,Issue
+1,The format for service information description is defined incorrectly
+2,The format for service information description is undefined
+3,The format for service information description is not defined
+4,"The interaction protocol between Web Server-SR, SR-mediator isn't defined."
+5,"There is no interaction protocol between Web Server-SR, SR-mediator"
+6,Resource provisioning policies are not in place
+7,Delegation policies are not in place
+8,Reservation policies are not in place
+9,Resource provisioning policies are not fuctioning correctly
+10,Delegation policies are not fuctioning correctly
+11,Reservation policies are not functioning correctly
+12,No policies are in place
+13,Resource failures are not reported
+14,Only some resource failures are reported
+15,Malicious requests are not detected
+16,Malicious requests are not rejected
+17,"Mediator-SR, mediator-PR, mediator-PA interaction protocols are not defined."
+18,"Mediator-SR, mediator-PR, mediator-PA interaction protocols do not work."
+19,"There are no Mediator-SR, mediator-PR, mediator-PA interaction protocols"
+20,Mediator cannot work with the PA
+21,Negotiation cannot be established between CDN peers
+22,"Mediator can work in conjunction with the PA, but negotiation still cannot be established"
+23,Interaction protocols between PAs are not identified
+24,Interaction protocols between PAs are incorrectly identified
+25,There are no interaction protocols between PAs
+26,Malicious requests cannot be identified
+27,"Malicious requests can be identified, but not acted upon"
+28,Malicious requests cannot be acted upon
+29,There are not existing policies for long-term peering arrangement
+30,There are existing policies for short-term but not long-term peering arrangement
+31,There is no procedure to perform short-term negotiation
+32,Negotiation is not established between selected CDN peers
+33,CDN peers cannot be selected
+34,Primary CDN has not acquired sufficient external resources
+35,Primary CDN cannot acquire external resources
+36,Primary CDN can only acquire internal resources
+37,Functional policies are not identified
+38,Functional policies are not deployed
+39,SLA satisfaction does not ensure effective content delivery
+40,Effective content delivery cannot be achieved
+41,SLA satisfaction does not work
+42,Content delivery is not effective even with SLA satisfaction
+43,There are no policies to identify the consequences of SLA violation
+44,Policies identifying the consequences of SLA violation are not defined
+45,There are no policies in place to perform renegotiation for problem resolution
+46,Not all policies are in place to perform renegotiation for problem resolution
+47,Policies are not in place to perform renegotiation for problem resolution
+48,Functional policies cannot be identified or deployed
+49,Anticipated user requests are not considered
+50,Unanticipated user requests are not considered
+51,No traffic is considered
+52,Primary CDN has acquired insufficient external resources
+53,Web servers have not replicated necessary content
+54,Web servers replicate unnecessary content
