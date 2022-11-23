@@ -54,9 +54,9 @@ def calculatePrecisionAndRecall(oracle: list, testSet: list) -> None:
 
 def runAllTests() -> None:
     oracleFiles = ['keepass-oracle-set.csv', 'peering-oracle-set.csv', 'gammaj-oracle-set.csv']
-    testFiles = [['keepass-match1.csv','keepass-match2.csv','keepass-match3.csv'],
-                 ['peering-match1.csv','peering-match2.csv','peering-match3.csv'],
-                 ['gammaj-match1.csv','gammaj-match2.csv','gammaj-match3.csv']]
+    testFiles = [['keepass-m1.csv','keepass-m2.csv','keepass-m3.csv'],
+                 ['peering-m1.csv','peering-m2.csv','peering-m3.csv'],
+                 ['gammaj-m1.csv','gammaj-m2.csv','gammaj-m3.csv']]
     for i in range(len(oracleFiles)):
         oracle = readDatabase(oracleFiles[i])
         testFileList = testFiles[i]
